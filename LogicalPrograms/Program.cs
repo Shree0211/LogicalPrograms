@@ -2,4 +2,5 @@
 Console.WriteLine("---Logical Programs---");
 //LogicalPrograms.Fibonacci.Fibo();
 //LogicalPrograms.Perfectnumber.Perfectnum();
-LogicalPrograms.PrimeNumber.Prime_num();
+//LogicalPrograms.PrimeNumber.Prime_num();
+LogicalPrograms.Reverse.Reverse1();
