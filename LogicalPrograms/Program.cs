@@ -3,4 +3,5 @@ Console.WriteLine("---Logical Programs---");
 //LogicalPrograms.Fibonacci.Fibo();
 //LogicalPrograms.Perfectnumber.Perfectnum();
 //LogicalPrograms.PrimeNumber.Prime_num();
-LogicalPrograms.Reverse.Reverse1();
+//LogicalPrograms.Reverse.Reverse1();
+LogicalPrograms.Stopwatch1.Stop1();
